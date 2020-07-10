@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello there! I'm Luciano de Souza, im software developer and for me is a enjoy talk with you!
+Hello there! I'm Luciano dii Souza, im software developer and for me is a enjoy talk with you!
 
 <!--
 **lucianodiisouza/lucianodiisouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
