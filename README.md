@@ -3,7 +3,7 @@
 <!--
 **lucianodiisouza/lucianodiisouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello there! I'm Luciano de Souza, im software developer and for me is a enjoy talk with you!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
