@@ -1,16 +1,50 @@
-### Hi there 👋
-Hello there! I'm Luciano dii Souza, im software developer and for me is a enjoy talk with you!
+## Hi, I'm Luciano dii Souza
 
-<!--
-**lucianodiisouza/lucianodiisouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### FullStack Developer using JavaScript.
+![](https://komarev.com/ghpvc/?username=lucianodiisouza&color=79b8ff)
+
+<br />
+
+### 🌍 Let's Connect!
+
+<table>
+   <tr>
+      <td>
+         <a href="https://linkedin.com/in/lucianodiisouza">
+            <img align="left" alt="Luciano dii Souza | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+         </a>
+      </td>
+      <td>
+         <a href="https://www.instagram.com/lucianodiisouza/">
+            <img align="left" alt="Luciano dii Souza | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+         </a>
+      </td>
+   </tr>
+</table>
+
+<br />
+
+### 🔧 Languages and Tools:
+- HTML5
+- CSS3
+- Vanilla
+- React
+- ReactNative
+- Delphi (I've been through hard times...)
+- Rails (I miss you ...)
+- AdobeXD
+- Adobe Ps, Ai, Lr
+
+<br />
+
+---
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
