@@ -28,6 +28,7 @@
 - HTML5
 - CSS3
 - Vanilla
+- PHP
 - React
 - ReactNative
 - Delphi (I've been through hard times...)
