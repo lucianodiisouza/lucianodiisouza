@@ -1,11 +1,11 @@
 ## Hi, I'm Luciano dii Souza
 
-#### FullStack Developer using JavaScript.
+#### FullSnack Developer using JavaScript.
 ![](https://komarev.com/ghpvc/?username=lucianodiisouza&color=79b8ff)
 
 <br />
 
-### 🌍 Let's Connect!
+### 🌍 Social
 
 <table>
    <tr>
@@ -24,17 +24,11 @@
 
 <br />
 
-### 🔧 Languages and Tools:
-- HTML5
-- CSS3
-- Vanilla
-- PHP
-- React
-- ReactNative
-- Delphi (I've been through hard times...)
-- Rails (I miss you ...)
-- AdobeXD
-- Adobe Ps, Ai, Lr
+### 🔧 I already have worked with:
+HTML5, CSS3, Vanilla, PHP, Delphi (I've been through hard times...), Rails (I miss you ...)
+
+### but actually im working with: 
+React and ReactNative, 
 
 <br />
 
