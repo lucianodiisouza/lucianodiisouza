@@ -39,5 +39,4 @@ React and ReactNative,
 </div>
 
 <img href="https://github.com/lucianodiisouza/lucianodiisouza/blob/output/snake.svg" alt="Snake animation" />
-
 ---
