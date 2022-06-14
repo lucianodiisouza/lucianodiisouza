@@ -38,4 +38,6 @@ React and ReactNative,
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianodiisouza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<img href="https://github.com/lucianodiisouza/lucianodiisouza/blob/output/snake.svg" alt="Snake animation" />
+
 ---
