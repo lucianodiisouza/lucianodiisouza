@@ -24,11 +24,14 @@
 
 <br />
 
-### 🔧 I already have worked with:
-HTML5, CSS3, Vanilla, PHP, Delphi (I've been through hard times...), Rails (I miss you ...)
+### Experienced with:
+HTML5, CSS3, Vanilla, PHP, Delphi (I've been through hard times...), Rails (I miss you ...).
 
 ### but actually im working with: 
-React and ReactNative, 
+React, ReactNative and Elixir.
+
+### Current learning: 
+Elixir and c++.
 
 <br />
 
