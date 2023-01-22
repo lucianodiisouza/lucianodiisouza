@@ -25,12 +25,12 @@
 <br />
 
 ### Experienced with:
-HTML5, CSS3, Vanilla, PHP, Delphi (I've been through hard times...), Rails (I miss you ...).
+HTML5, CSS3, Vanilla, PHP, Delphi (I've been through hard times...), Rails (I miss you ...). Reacta and ReactNative.
 
-### but actually im working with: 
-React, ReactNative and Elixir.
+### Actually im working with: 
+React and ReactNative.
 
 ### Current learning: 
-Elixir and c++.
+Go
 
 <br />
