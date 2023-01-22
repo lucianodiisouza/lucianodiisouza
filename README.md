@@ -2,11 +2,11 @@
 
 #### Using javascript to build stuff.
 
-<a href="https://linkedin.com/in/lucianodiisouza">
+<a href="https://linkedin.com/in/lucianodiisouza" target="_blank">
    <img align="left" alt="Luciano dii Souza | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
  
-<a href="https://www.instagram.com/lucianodiisouza/">
+<a href="https://www.instagram.com/lucianodiisouza/" target="_blank">
    <img align="left" alt="Luciano dii Souza | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
