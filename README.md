@@ -21,7 +21,7 @@ HTML5, CSS3, Vanilla, PHP, Delphi (I've been through hard times...), Rails (I mi
 React and ReactNative.
 
 ### Current learning: 
-Go
+Swift / SwiftUI
 
 <br />
 
