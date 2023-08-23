@@ -1,21 +1,8 @@
-## Hi, I'm Luciano dii Souza
-
-#### Using javascript to build stuff.
-
-<a href="https://linkedin.com/in/lucianodiisouza" target="_blank">
-   <img align="left" alt="Luciano dii Souza | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
- 
-<a href="https://www.instagram.com/lucianodiisouza/" target="_blank">
-   <img align="left" alt="Luciano dii Souza | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-
-
-<br />
+## Hi, I'm Luciano dii Souza 🇧🇷 
+A Brazilian Software Engineer who loves mechanical keyboads and currently is using javascript to build stuff.
 
 ### Experienced with:
-HTML5, CSS3, Vanilla, PHP, Delphi (I've been through hard times...), Rails (I miss you ...). React and React-Native.
+JavaScript, TypeScript, React, React-Native, NextJS, NodeJS, Tailwind, Styled-Components, Bootstrap, PHP, Delphi (I've been through hard times...), and Rails (I miss you ...)
 
 ### Actually Im working with: 
 React and ReactNative.
