@@ -8,7 +8,7 @@ JavaScript, TypeScript, React, React-Native, NextJS, NodeJS, Tailwind, Styled-Co
 React and ReactNative.
 
 ### Current learning: 
-Swift / SwiftUI
+Swift / SwiftUI / C (???)
 
 <br />
 
