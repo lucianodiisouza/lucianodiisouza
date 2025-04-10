@@ -7,7 +7,7 @@ A Brazilian Software Engineer passionate about building things with JavaScript a
 JavaScript, TypeScript, React, React Native, Next.js, Node.js, Tailwind, Styled-Components, Bootstrap, PHP, Delphi (yeah, I’ve seen things...), and Ruby on Rails (miss you 🫡).  
 
 ### 🚀 Currently working with:  
-React and React Native at [Your Company Name], helping build great digital experiences.  
+React and React Native at @workl , helping build great digital experiences.  
 
 ### 📍 Currently in Brazil, but moving to England soon!  
 
