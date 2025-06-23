@@ -9,7 +9,7 @@ JavaScript, TypeScript, React, React Native, Next.js, Node.js, Tailwind, Styled-
 ### 🚀 Currently working with:  
 React and React Native at @workl , helping build great digital experiences.  
 
-### 📍 Currently in Brazil, but moving to England soon!  
+### 📍 Currently in Brazil 🇧🇷
 
 ### 📚 Currently learning:  
 Swift / SwiftUI / C (??? Let's see where this goes...)  
