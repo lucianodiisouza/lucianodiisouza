@@ -4,10 +4,10 @@
 A Brazilian Software Engineer passionate about building things with JavaScript and creating content about tech and career growth. I specialize in frontend and mobile development, always exploring new technologies—and yes, I have a soft spot for mechanical keyboards.  
 
 ### 💻 Experienced with:  
-JavaScript, TypeScript, React, React Native, Next.js, Node.js, Tailwind, Styled-Components, Bootstrap, PHP, Delphi (yeah, I’ve seen things...), and Ruby on Rails (miss you 🫡).  
+JavaScript, TypeScript, React, React Native, Next.js, Node.js, Tailwind, Styled-Components, Tamagui, Bootstrap, PHP, Delphi (yeah, I’ve seen things...), and Ruby on Rails (miss you 🫡).  
 
 ### 🚀 Currently working with:  
-React and React Native at @workl , helping build great digital experiences.  
+React Native and tamagui at @workl , helping build great digital experiences.  
 
 ### 📍 Currently in Brazil 🇧🇷
 
