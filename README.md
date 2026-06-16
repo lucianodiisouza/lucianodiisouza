@@ -5,7 +5,7 @@ A Brazilian Software Engineer passionate about building things with JavaScript a
 JavaScript, TypeScript, React, React Native, Next.js, Node.js, Tailwind, Styled-Components, Tamagui, Bootstrap, PHP, Delphi (yeah, I’ve seen things...), and Ruby on Rails (miss you 🫡).  
 
 ### 🚀 Currently working with:  
-React Native and tamagui at @workl , helping build great digital experiences.  
+JS/TS at React/ReactNative enviroments helping build great digital experiences and looking for a new cool project to work on (#openToWork)
 
 ### 📍 Currently in Brazil 🇧🇷
 
