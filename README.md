@@ -36,6 +36,7 @@ Selected public projects — apps, tools, and libraries I built. Sorted by ⭐ s
 | ⭐ 1 | [**domoporo**](https://github.com/lucianodiisouza/domoporo) | DomoPoro is a ReactJS + TS pomodoro timer. enjoy :sparkles: |
 | ⭐ 1 | [**gitlab-desktop**](https://github.com/lucianodiisouza/gitlab-desktop) | A desktop client for GitLab |
 | ⭐ 1 | [**primotion**](https://github.com/lucianodiisouza/primotion) | animate any element on web |
+| ⭐ 0 | [**@primo-brutality/ui**](https://github.com/lucianodiisouza/primo-brutality) | NeoBrutalist ReactNative DesignSystem |
 | ⭐ 0 | [**open-mock**](https://github.com/lucianodiisouza/open-mock) | Open-source mockup generator for chat, AI, social, story, and email screenshots |
 
 ![](https://komarev.com/ghpvc/?username=lucianodiisouza&color=79b8ff)
