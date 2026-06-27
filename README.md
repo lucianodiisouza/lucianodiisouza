@@ -1,26 +1,14 @@
-## Hi, I'm Luciano dii Souza 🇧🇷  
-A Brazilian Software Engineer passionate about building things with JavaScript and creating content about tech and career growth. I specialize in frontend and mobile development, always exploring new technologies—and yes, I have a soft spot for mechanical keyboards.  
+## Luciano dii Souza 🇧🇷
 
-### 💻 Experienced with:  
-JavaScript, TypeScript, React, React Native, Next.js, Node.js, Tailwind, Styled-Components, Tamagui, Bootstrap, PHP, Delphi (yeah, I’ve seen things...), and Ruby on Rails (miss you 🫡).  
+Software engineer from Brazil. I build frontend and mobile apps with TypeScript, React, and React Native.
 
-### 🚀 Currently working with:  
-JS/TS at React/ReactNative enviroments helping build great digital experiences and looking for a new cool project to work on (#openToWork)
+Also ship side projects, write about tech, and collect mechanical keyboards.
 
-### 📍 Currently in Brazil 🇧🇷
+**#openToWork**
 
-### 📚 Currently learning:  
-Swift / SwiftUI / C (??? Let's see where this goes...)  
+### Featured Projects
 
-### 🎥 Content Creation:  
-I create videos and posts about software development, career tips, and tech insights—sometimes with a touch of humor.  
-
-### 🔍 A bit about my journey:  
-I started my career navigating through different stacks, from Delphi and PHP to JavaScript and modern web frameworks. Over time, I specialized in frontend and mobile development, working on projects that impact real users. Now, I’m exploring new languages, sharing knowledge through content, and preparing for my next chapter in London.  
-
-### 🌟 Featured Projects
-
-Selected public projects — apps, tools, and libraries I built. Sorted by ⭐ star count.
+Public apps, tools, and libraries — sorted by star count.
 
 | Stars | Project | Description |
 | --- | --- | --- |
