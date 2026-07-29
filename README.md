@@ -10,6 +10,7 @@ Also ship side projects, write about tech, and collect mechanical keyboards.
 
 A curated selection — the same apps & tools featured at [my apps catalog](https://github.com/lucianodiisouza/my-apps).
 
+<!-- FEATURED:START (auto-generated from my-apps/projects.js — do not edit by hand) -->
 | Stars | Project | Description |
 | --- | --- | --- |
 | ⭐&nbsp;70 | [**Recta (self-hosted)**](https://github.com/lucianodiisouza/recta-selfhosted-backend) | Self-hosted personal finance app |
@@ -18,5 +19,6 @@ A curated selection — the same apps & tools featured at [my apps catalog](http
 | ⭐&nbsp;21 | [**PrimeClip**](https://github.com/lucianodiisouza/PrimeClip) | Local-first, AI-powered video clipping |
 | ⭐&nbsp;8 | [**LifeBoard**](https://github.com/lucianodiisouza/lifeboard) | Modular, self-hosted personal life dashboard |
 | — | [**Conduzir**](https://conduzir.online) | Gestão para autoescolas e instrutores |
+<!-- FEATURED:END -->
 
 ![](https://komarev.com/ghpvc/?username=lucianodiisouza&color=79b8ff)

@@ -1,0 +1,36 @@
+name: Update featured projects
+
+on:
+  schedule:
+    # 30 min after my-apps refreshes its stars (which runs at :17 every 6h),
+    # so this mirror picks up the freshest counts.
+    - cron: "47 */6 * * *"
+  workflow_dispatch: {} # allow manual runs from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Regenerate featured table from my-apps/projects.js
+        run: node scripts/update-featured.mjs
+
+      - name: Commit if changed
+        run: |
+          if [[ -n "$(git status --porcelain README.md)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: refresh featured projects from my-apps"
+            git push
+          else
+            echo "No featured changes."
+          fi
