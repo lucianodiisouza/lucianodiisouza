@@ -13,9 +13,9 @@ A curated selection — the same apps & tools featured at [my apps catalog](http
 <!-- FEATURED:START (auto-generated from my-apps/projects.js — do not edit by hand) -->
 | Stars | Project | Description |
 | --- | --- | --- |
-| ⭐&nbsp;72 | [**Recta (self-hosted)**](https://github.com/lucianodiisouza/recta-selfhosted-backend) | Self-hosted personal finance app |
+| ⭐&nbsp;74 | [**Recta (self-hosted)**](https://github.com/lucianodiisouza/recta-selfhosted-backend) | Self-hosted personal finance app |
 | ⭐&nbsp;67 | [**Teorical Questions DETRAN**](https://github.com/lucianodiisouza/teorical-questions-detran) | Practice app for the Brazilian driving theory exam |
-| ⭐&nbsp;40 | [**Semaphore**](https://github.com/lucianodiisouza/semaphore) | Floating traffic light for AI coding agents |
+| ⭐&nbsp;41 | [**Semaphore**](https://github.com/lucianodiisouza/semaphore) | Floating traffic light for AI coding agents |
 | ⭐&nbsp;23 | [**PrimeClip**](https://github.com/lucianodiisouza/PrimeClip) | Local-first, AI-powered video clipping |
 | ⭐&nbsp;12 | [**LifeBoard**](https://github.com/lucianodiisouza/lifeboard) | Modular, self-hosted personal life dashboard |
 | — | [**Conduzir**](https://conduzir.online) | Gestão para autoescolas e instrutores |
