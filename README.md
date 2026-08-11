@@ -14,12 +14,12 @@ A curated selection — the same apps & tools featured at [my apps catalog](http
 | Stars | Project | Description |
 | --- | --- | --- |
 | ⭐&nbsp;74 | [**Recta (self-hosted)**](https://github.com/lucianodiisouza/recta-selfhosted-backend) | Self-hosted personal finance app |
-| ⭐&nbsp;67 | [**Teorical Questions DETRAN**](https://github.com/lucianodiisouza/teorical-questions-detran) | Practice app for the Brazilian driving theory exam |
+| ⭐&nbsp;68 | [**Teorical Questions DETRAN**](https://github.com/lucianodiisouza/teorical-questions-detran) | Practice app for the Brazilian driving theory exam |
 | ⭐&nbsp;41 | [**Semaphore**](https://github.com/lucianodiisouza/semaphore) | Floating traffic light for AI coding agents |
 | ⭐&nbsp;23 | [**PrimeClip**](https://github.com/lucianodiisouza/PrimeClip) | Local-first, AI-powered video clipping |
 | ⭐&nbsp;14 | [**LifeBoard**](https://github.com/lucianodiisouza/lifeboard) | Modular, self-hosted personal life dashboard |
 | ⭐&nbsp;2 | [**PrimoEngine**](https://github.com/lucianodiisouza/livewallpaper) | Native animated wallpapers for macOS |
-| ⭐&nbsp;1 | [**ShakeDrop**](https://github.com/lucianodiisouza/shakedrop) | Drop, shake, AirDrop. From the menu bar. |
+| ⭐&nbsp;2 | [**ShakeDrop**](https://github.com/lucianodiisouza/shakedrop) | Drop, shake, AirDrop. From the menu bar. |
 | — | [**Conduzir**](https://conduzir.online) | Gestão para autoescolas e instrutores |
 <!-- FEATURED:END -->
 
