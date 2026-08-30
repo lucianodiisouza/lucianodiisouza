@@ -13,12 +13,12 @@ A curated selection — the same apps & tools featured at [my apps catalog](http
 <!-- FEATURED:START (auto-generated from my-apps/projects.js — do not edit by hand) -->
 | Stars | Project | Description |
 | --- | --- | --- |
-| ⭐&nbsp;77 | [**Recta (self-hosted)**](https://github.com/lucianodiisouza/recta-selfhosted-backend) | Self-hosted personal finance app |
+| ⭐&nbsp;78 | [**Recta (self-hosted)**](https://github.com/lucianodiisouza/recta-selfhosted-backend) | Self-hosted personal finance app |
 | ⭐&nbsp;69 | [**Teorical Questions DETRAN**](https://github.com/lucianodiisouza/teorical-questions-detran) | Practice app for the Brazilian driving theory exam |
-| ⭐&nbsp;50 | [**PrimoAcademy**](https://github.com/lucianodiisouza/aprenda-community) | Trilhas de programação em PT-BR, gratuitas e open source |
+| ⭐&nbsp;52 | [**PrimoAcademy**](https://github.com/lucianodiisouza/aprenda-community) | Trilhas de programação em PT-BR, gratuitas e open source |
 | ⭐&nbsp;45 | [**Semaphore**](https://github.com/lucianodiisouza/semaphore) | Floating traffic light for AI coding agents |
 | ⭐&nbsp;24 | [**PrimeClip**](https://github.com/lucianodiisouza/PrimeClip) | Local-first, AI-powered video clipping |
-| ⭐&nbsp;15 | [**LifeBoard**](https://github.com/lucianodiisouza/lifeboard) | Modular, self-hosted personal life dashboard |
+| ⭐&nbsp;16 | [**LifeBoard**](https://github.com/lucianodiisouza/lifeboard) | Modular, self-hosted personal life dashboard |
 | ⭐&nbsp;3 | [**ShakeDrop**](https://github.com/lucianodiisouza/shakedrop) | Drop, shake, AirDrop. From the menu bar. |
 | ⭐&nbsp;2 | [**PrimoEngine**](https://github.com/lucianodiisouza/livewallpaper) | Native animated wallpapers for macOS |
 | — | [**Conduzir**](https://conduzir.online) | Gestão para autoescolas e instrutores |
