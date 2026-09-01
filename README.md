@@ -21,6 +21,7 @@ A curated selection — the same apps & tools featured at [my apps catalog](http
 | ⭐&nbsp;16 | [**LifeBoard**](https://github.com/lucianodiisouza/lifeboard) | Modular, self-hosted personal life dashboard |
 | ⭐&nbsp;3 | [**ShakeDrop**](https://github.com/lucianodiisouza/shakedrop) | Drop, shake, AirDrop. From the menu bar. |
 | ⭐&nbsp;2 | [**PrimoEngine**](https://github.com/lucianodiisouza/livewallpaper) | Native animated wallpapers for macOS |
+| ⭐&nbsp;0 | [**PR Widget**](https://github.com/lucianodiisouza/pr-widget) | Watch your GitHub pull requests from the menu bar |
 | — | [**Conduzir**](https://conduzir.online) | Management for driving schools and instructors |
 <!-- FEATURED:END -->
 
