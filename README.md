@@ -13,16 +13,16 @@ A curated selection — the same apps & tools featured at [my apps catalog](http
 <!-- FEATURED:START (auto-generated from my-apps/projects.js — do not edit by hand) -->
 | Stars | Project | Description |
 | --- | --- | --- |
-| ⭐&nbsp;86 | [**Recta (self-hosted)**](https://github.com/lucianodiisouza/recta-selfhosted-backend) | Self-hosted personal finance app |
-| ⭐&nbsp;70 | [**Teorical Questions DETRAN**](https://github.com/lucianodiisouza/teorical-questions-detran) | Practice app for the Brazilian driving theory exam |
-| ⭐&nbsp;65 | [**PrimoAcademy**](https://github.com/lucianodiisouza/aprenda-community) | Free, open-source programming roadmaps in PT-BR |
+| ⭐&nbsp;88 | [**Recta (self-hosted)**](https://github.com/lucianodiisouza/recta-selfhosted-backend) | Self-hosted personal finance app |
+| ⭐&nbsp;71 | [**Teorical Questions DETRAN**](https://github.com/lucianodiisouza/teorical-questions-detran) | Practice app for the Brazilian driving theory exam |
+| ⭐&nbsp;66 | [**PrimoAcademy**](https://github.com/lucianodiisouza/aprenda-community) | Free, open-source programming roadmaps in PT-BR |
 | ⭐&nbsp;46 | [**Semaphore**](https://github.com/lucianodiisouza/semaphore) | Floating traffic light for AI coding agents |
 | ⭐&nbsp;25 | [**PrimeClip**](https://github.com/lucianodiisouza/PrimeClip) | Local-first, AI-powered video clipping |
 | ⭐&nbsp;16 | [**LifeBoard**](https://github.com/lucianodiisouza/lifeboard) | Modular, self-hosted personal life dashboard |
-| ⭐&nbsp;3 | [**ShakeDrop**](https://github.com/lucianodiisouza/shakedrop) | Drop, shake, AirDrop. From the menu bar. |
-| ⭐&nbsp;2 | [**PrimoEngine**](https://github.com/lucianodiisouza/livewallpaper) | Native animated wallpapers for macOS |
+| ⭐&nbsp;4 | [**ShakeDrop**](https://github.com/lucianodiisouza/shakedrop) | Drop, shake, AirDrop. From the menu bar. |
 | ⭐&nbsp;0 | [**PR Widget**](https://github.com/lucianodiisouza/pr-widget) | Watch your GitHub pull requests from the menu bar |
 | — | [**PrimoDock**](https://dock.oprimo.dev) | One Mac, many desks: a Dock per workspace |
+| — | [**PrimoEngine**](https://engine.oprimo.dev) | Living wallpapers for your Mac, desktop and lock screen |
 | — | [**Conduzir**](https://conduzir.online) | Management for driving schools and instructors |
 <!-- FEATURED:END -->
 
