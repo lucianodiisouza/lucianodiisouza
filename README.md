@@ -13,15 +13,16 @@ A curated selection — the same apps & tools featured at [my apps catalog](http
 <!-- FEATURED:START (auto-generated from my-apps/projects.js — do not edit by hand) -->
 | Stars | Project | Description |
 | --- | --- | --- |
-| ⭐&nbsp;88 | [**Recta (self-hosted)**](https://github.com/lucianodiisouza/recta-selfhosted-backend) | Self-hosted personal finance app |
+| ⭐&nbsp;89 | [**Recta (self-hosted)**](https://github.com/lucianodiisouza/recta-selfhosted-backend) | Self-hosted personal finance app |
 | ⭐&nbsp;71 | [**Teorical Questions DETRAN**](https://github.com/lucianodiisouza/teorical-questions-detran) | Practice app for the Brazilian driving theory exam |
 | ⭐&nbsp;66 | [**PrimoAcademy**](https://github.com/lucianodiisouza/aprenda-community) | Free, open-source programming roadmaps in PT-BR |
 | ⭐&nbsp;46 | [**Semaphore**](https://github.com/lucianodiisouza/semaphore) | Floating traffic light for AI coding agents |
 | ⭐&nbsp;25 | [**PrimeClip**](https://github.com/lucianodiisouza/PrimeClip) | Local-first, AI-powered video clipping |
-| ⭐&nbsp;16 | [**LifeBoard**](https://github.com/lucianodiisouza/lifeboard) | Modular, self-hosted personal life dashboard |
+| ⭐&nbsp;17 | [**LifeBoard**](https://github.com/lucianodiisouza/lifeboard) | Modular, self-hosted personal life dashboard |
 | ⭐&nbsp;4 | [**ShakeDrop**](https://github.com/lucianodiisouza/shakedrop) | Drop, shake, AirDrop. From the menu bar. |
 | ⭐&nbsp;0 | [**PR Widget**](https://github.com/lucianodiisouza/pr-widget) | Watch your GitHub pull requests from the menu bar |
 | — | [**PrimoDock**](https://dock.oprimo.dev) | One Mac, many desks: a Dock per workspace |
+| — | [**PrimoRec**](https://rec.oprimo.dev) | Shoot landscape, post vertical: an iPhone camera for creators |
 | — | [**PrimoEngine**](https://engine.oprimo.dev) | Living wallpapers for your Mac, desktop and lock screen |
 | — | [**Conduzir**](https://conduzir.online) | Management for driving schools and instructors |
 <!-- FEATURED:END -->
