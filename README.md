@@ -14,10 +14,10 @@ A curated selection — the same apps & tools featured at [my apps catalog](http
 | Stars | Project | Description |
 | --- | --- | --- |
 | ⭐&nbsp;89 | [**Recta (self-hosted)**](https://github.com/lucianodiisouza/recta-selfhosted-backend) | Self-hosted personal finance app |
-| ⭐&nbsp;72 | [**Teorical Questions DETRAN**](https://github.com/lucianodiisouza/teorical-questions-detran) | Practice app for the Brazilian driving theory exam |
-| ⭐&nbsp;66 | [**PrimoAcademy**](https://github.com/lucianodiisouza/aprenda-community) | Free, open-source programming roadmaps in PT-BR |
+| ⭐&nbsp;73 | [**Teorical Questions DETRAN**](https://github.com/lucianodiisouza/teorical-questions-detran) | Practice app for the Brazilian driving theory exam |
+| ⭐&nbsp;67 | [**PrimoAcademy**](https://github.com/lucianodiisouza/aprenda-community) | Free, open-source programming roadmaps in PT-BR |
 | ⭐&nbsp;46 | [**Semaphore**](https://github.com/lucianodiisouza/semaphore) | Floating traffic light for AI coding agents |
-| ⭐&nbsp;25 | [**PrimeClip**](https://github.com/lucianodiisouza/PrimeClip) | Local-first, AI-powered video clipping |
+| ⭐&nbsp;26 | [**PrimeClip**](https://github.com/lucianodiisouza/PrimeClip) | Local-first, AI-powered video clipping |
 | ⭐&nbsp;17 | [**LifeBoard**](https://github.com/lucianodiisouza/lifeboard) | Modular, self-hosted personal life dashboard |
 | ⭐&nbsp;4 | [**ShakeDrop**](https://github.com/lucianodiisouza/shakedrop) | Drop, shake, AirDrop. From the menu bar. |
 | ⭐&nbsp;0 | [**PR Widget**](https://github.com/lucianodiisouza/pr-widget) | Watch your GitHub pull requests from the menu bar |
