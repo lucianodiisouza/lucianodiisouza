@@ -13,7 +13,7 @@ A curated selection — the same apps & tools featured at [my apps catalog](http
 <!-- FEATURED:START (auto-generated from my-apps/projects.js — do not edit by hand) -->
 | Stars | Project | Description |
 | --- | --- | --- |
-| ⭐&nbsp;89 | [**Recta (self-hosted)**](https://github.com/lucianodiisouza/recta-selfhosted-backend) | Self-hosted personal finance app |
+| ⭐&nbsp;91 | [**Recta (self-hosted)**](https://github.com/lucianodiisouza/recta-selfhosted-backend) | Self-hosted personal finance app |
 | ⭐&nbsp;73 | [**Teorical Questions DETRAN**](https://github.com/lucianodiisouza/teorical-questions-detran) | Practice app for the Brazilian driving theory exam |
 | ⭐&nbsp;67 | [**PrimoAcademy**](https://github.com/lucianodiisouza/aprenda-community) | Free, open-source programming roadmaps in PT-BR |
 | ⭐&nbsp;47 | [**Semaphore**](https://github.com/lucianodiisouza/semaphore) | Floating traffic light for AI coding agents |
