@@ -18,7 +18,7 @@ A curated selection — the same apps & tools featured at [my apps catalog](http
 | ⭐&nbsp;70 | [**PrimoAcademy**](https://github.com/lucianodiisouza/aprenda-community) | Free, open-source programming roadmaps in PT-BR |
 | ⭐&nbsp;48 | [**Semaphore**](https://github.com/lucianodiisouza/semaphore) | Floating traffic light for AI coding agents |
 | ⭐&nbsp;30 | [**PrimeClip**](https://github.com/lucianodiisouza/PrimeClip) | Local-first, AI-powered video clipping |
-| ⭐&nbsp;17 | [**LifeBoard**](https://github.com/lucianodiisouza/lifeboard) | Modular, self-hosted personal life dashboard |
+| ⭐&nbsp;18 | [**LifeBoard**](https://github.com/lucianodiisouza/lifeboard) | Modular, self-hosted personal life dashboard |
 | ⭐&nbsp;4 | [**ShakeDrop**](https://github.com/lucianodiisouza/shakedrop) | Drop, shake, AirDrop. From the menu bar. |
 | ⭐&nbsp;0 | [**PR Widget**](https://github.com/lucianodiisouza/pr-widget) | Watch your GitHub pull requests from the menu bar |
 | — | [**PrimoDock**](https://dock.oprimo.dev) | One Mac, many desks: a Dock per workspace |
