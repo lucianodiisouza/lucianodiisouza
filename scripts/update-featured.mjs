@@ -17,19 +17,18 @@ const STARS_SOURCE = process.env.GITHUB_DATA_URL || `${RAW}/data/github.json`;
 
 // Slugs from my-apps/projects.js shown on the profile.
 const FEATURED = [
+  "flecha",
   "recta",
-  "detran-questions",
   "primo-academy",
-  "semaphore",
+  "voulum",
   "primeclip",
+  "notchy",
+  "camera-man",
   "lifeboard",
-  "shakedrop",
-  "pr-widget",
   "primodock",
-  "primorec",
-  "typecourse",
   "primoengine",
-  "conduzir",
+  "primorec",
+  "cleanuai",
 ];
 
 const START = "<!-- FEATURED:START (auto-generated from my-apps/projects.js — do not edit by hand) -->";

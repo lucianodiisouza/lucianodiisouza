@@ -13,19 +13,18 @@ A curated selection — the same apps & tools featured at [my apps catalog](http
 <!-- FEATURED:START (auto-generated from my-apps/projects.js — do not edit by hand) -->
 | Stars | Project | Description |
 | --- | --- | --- |
+| ⭐&nbsp;118 | [**Flecha**](https://github.com/lucianodiisouza/flecha-browser) | The open-source browser for developers, with a vertical sidebar and a command bar |
 | ⭐&nbsp;111 | [**Recta**](https://github.com/lucianodiisouza/recta-selfhosted-backend) | Personal and household finances in one place, on web, iOS and Android |
 | ⭐&nbsp;89 | [**PrimoAcademy**](https://github.com/lucianodiisouza/aprenda-community) | Free, open source programming roadmaps in Portuguese |
-| ⭐&nbsp;72 | [**Teorical Questions DETRAN**](https://github.com/lucianodiisouza/teorical-questions-detran) | API serving 1,500 Brazilian driving theory exam questions |
-| ⭐&nbsp;48 | [**Semaphore**](https://github.com/lucianodiisouza/semaphore) | A floating traffic light for your AI coding agent |
+| ⭐&nbsp;36 | [**Voulum**](https://github.com/lucianodiisouza/voulum) | Per-app volume, output and EQ for macOS, from your menu bar |
 | ⭐&nbsp;30 | [**PrimeClip**](https://github.com/lucianodiisouza/PrimeClip) | AI vertical clips from long-form video, on your own computer |
+| ⭐&nbsp;26 | [**Notchy**](https://github.com/lucianodiisouza/notchy-desktop-macos) | A teleprompter that lives in your Mac's notch and follows your voice |
+| ⭐&nbsp;21 | [**Camera Man**](https://github.com/lucianodiisouza/camera-man-macos) | A floating camera for your Mac, for recordings, classes and calls |
 | ⭐&nbsp;18 | [**LifeBoard**](https://github.com/lucianodiisouza/lifeboard) | A modular personal dashboard that runs on your own server |
-| ⭐&nbsp;4 | [**ShakeDrop**](https://github.com/lucianodiisouza/shakedrop) | Shake your mouse while dragging a file to AirDrop it |
-| ⭐&nbsp;1 | [**PR Widget**](https://github.com/lucianodiisouza/pr-widget) | Your GitHub pull requests in the Mac menu bar |
 | — | [**PrimoDock**](https://dock.oprimo.dev) | A Dock with workspaces, widgets and themes for Mac and Windows 11 |
-| — | [**PrimoRec**](https://rec.oprimo.dev) | Shoot landscape, post vertical: an iPhone camera for creators |
-| — | [**TypeCourse**](https://type.oprimo.dev) | Free in-browser typing course, from the home row to symbols |
 | — | [**PrimoEngine**](https://engine.oprimo.dev) | Living wallpapers for your Mac and PC that pause when nobody is looking |
-| — | [**Conduzir**](https://conduzir.online) | Software for Brazilian driving schools and independent instructors |
+| — | [**PrimoRec**](https://rec.oprimo.dev) | Shoot landscape, post vertical: an iPhone camera for creators |
+| — | [**CleanUai**](https://clean.oprimo.dev) | The native Mac cleaner, with a Minas Gerais accent and a one-time price |
 <!-- FEATURED:END -->
 
 ![](https://komarev.com/ghpvc/?username=lucianodiisouza&color=79b8ff)
