@@ -13,9 +13,9 @@ A curated selection — the same apps & tools featured at [my apps catalog](http
 <!-- FEATURED:START (auto-generated from my-apps/projects.js — do not edit by hand) -->
 | Stars | Project | Description |
 | --- | --- | --- |
-| ⭐&nbsp;130 | [**Flecha**](https://github.com/lucianodiisouza/flecha-browser) | The open-source browser for developers, with a vertical sidebar and a command bar |
+| ⭐&nbsp;132 | [**Flecha**](https://github.com/lucianodiisouza/flecha-browser) | The open-source browser for developers, with a vertical sidebar and a command bar |
 | ⭐&nbsp;118 | [**Recta**](https://github.com/lucianodiisouza/recta-selfhosted-backend) | Personal and household finances in one place, on web, iOS and Android |
-| ⭐&nbsp;90 | [**PrimoAcademy**](https://github.com/lucianodiisouza/aprenda-community) | Free, open source programming roadmaps in Portuguese |
+| ⭐&nbsp;91 | [**PrimoAcademy**](https://github.com/lucianodiisouza/aprenda-community) | Free, open source programming roadmaps in Portuguese |
 | ⭐&nbsp;36 | [**Voulum**](https://github.com/lucianodiisouza/voulum) | Per-app volume, output and EQ for macOS, from your menu bar |
 | ⭐&nbsp;30 | [**PrimeClip**](https://github.com/lucianodiisouza/PrimeClip) | AI vertical clips from long-form video, on your own computer |
 | ⭐&nbsp;27 | [**Notchy**](https://github.com/lucianodiisouza/notchy-desktop-macos) | A teleprompter that lives in your Mac's notch and follows your voice |
