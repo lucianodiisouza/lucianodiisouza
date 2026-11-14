@@ -16,7 +16,7 @@ A curated selection — the same apps & tools featured at [my apps catalog](http
 | ⭐&nbsp;133 | [**Flecha**](https://github.com/lucianodiisouza/flecha-browser) | The open-source browser for developers, with a vertical sidebar and a command bar |
 | ⭐&nbsp;119 | [**Recta**](https://github.com/lucianodiisouza/recta-selfhosted-backend) | Personal and household finances in one place, on web, iOS and Android |
 | ⭐&nbsp;91 | [**PrimoAcademy**](https://github.com/lucianodiisouza/aprenda-community) | Free, open source programming roadmaps in Portuguese |
-| ⭐&nbsp;36 | [**Voulum**](https://github.com/lucianodiisouza/voulum) | Per-app volume, output and EQ for macOS, from your menu bar |
+| ⭐&nbsp;37 | [**Voulum**](https://github.com/lucianodiisouza/voulum) | Per-app volume, output and EQ for macOS, from your menu bar |
 | ⭐&nbsp;30 | [**PrimeClip**](https://github.com/lucianodiisouza/PrimeClip) | AI vertical clips from long-form video, on your own computer |
 | ⭐&nbsp;27 | [**Notchy**](https://github.com/lucianodiisouza/notchy-desktop-macos) | A teleprompter that lives in your Mac's notch and follows your voice |
 | ⭐&nbsp;21 | [**Camera Man**](https://github.com/lucianodiisouza/camera-man-macos) | A floating camera for your Mac, for recordings, classes and calls |
