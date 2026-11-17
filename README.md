@@ -18,7 +18,7 @@ A curated selection — the same apps & tools featured at [my apps catalog](http
 | ⭐&nbsp;91 | [**PrimoAcademy**](https://github.com/lucianodiisouza/aprenda-community) | Free, open source programming roadmaps in Portuguese |
 | ⭐&nbsp;38 | [**Voulum**](https://github.com/lucianodiisouza/voulum) | Per-app volume, output and EQ for macOS, from your menu bar |
 | ⭐&nbsp;30 | [**PrimeClip**](https://github.com/lucianodiisouza/PrimeClip) | AI vertical clips from long-form video, on your own computer |
-| ⭐&nbsp;28 | [**Notchy**](https://github.com/lucianodiisouza/notchy-desktop-macos) | A teleprompter that lives in your Mac's notch and follows your voice |
+| ⭐&nbsp;29 | [**Notchy**](https://github.com/lucianodiisouza/notchy-desktop-macos) | A teleprompter that lives in your Mac's notch and follows your voice |
 | ⭐&nbsp;22 | [**Camera Man**](https://github.com/lucianodiisouza/camera-man-macos) | A floating camera for your Mac, for recordings, classes and calls |
 | ⭐&nbsp;17 | [**LifeBoard**](https://github.com/lucianodiisouza/lifeboard) | A modular personal dashboard that runs on your own server |
 | — | [**PrimoDock**](https://dock.oprimo.dev) | A Dock with workspaces, widgets and themes for Mac and Windows 11 |
